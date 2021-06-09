@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DawidLuczak
 - 👀 I am interested in programming, designing, graphic designing, chess, hiking, swimming, cooking and meditation.
-- 🌱 I’m currently learning Java in Spring Boot and Web Development using Frontend languages with Node.js, React.js.
+- 🌱 I’m currently learning Java with Spring Boot.
 - 💞️ I am looking to collaborate on programming and developing modern technology projects and solutions.
 - 📫 You can reach me here:
       -LinkedIn: https://www.linkedin.com/in/dawid-luczak-it/
